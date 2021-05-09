@@ -165,3 +165,17 @@ h2 {
   margin-top: 0;
   padding: 0;
 }
+p {
+  color: rgb(5, 107, 202);
+}
+.copyright {
+  font-size: 0.8em;
+  color: rgb(244, 247, 248);
+  text-transform: uppercase;
+  text-align: center;
+  border: 0;
+  background-color: rgb(11, 125, 190);
+  margin-top: 10px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
