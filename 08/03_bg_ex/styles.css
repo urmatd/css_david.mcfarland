@@ -152,6 +152,10 @@ table {
 }
 
 .main h2 {
+  background-image: url(images/underline.png);
+  background-repeat: no-repeat;
+  background-position: left bottom;
+  padding-bottom: 7px;
   font: 24px Tahoma, Geneva, sans-serif;
   margin-bottom: 15px;
   font-family: Tahoma, Geneva, sans-serif;
