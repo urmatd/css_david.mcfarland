@@ -156,8 +156,8 @@ h1 {
 .inventory tr:nth-of-type(odd) {
   background-color: rgba(259, 76, 16, 0.1);
 }
-#price,
-#rating {
+.price,
+.rating {
   width: 15%;
 }
 /* пользовательские стили  */
